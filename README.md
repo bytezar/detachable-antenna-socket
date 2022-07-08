@@ -1,5 +1,12 @@
 # RP-SMA socket holder for TP-Link routers (TL-WR841N, TL-WR740N)
 
+Holder is used to convert router with fixed antenna to detachable antenna.<br/>
+<br/>
+All details needed to make this light there are in this movie:<br/>
+https://youtu.be/TBYSBj202hA<br/>
+
+___
+
 Photos and stl files are available my thingiverse site:<br/>
 https://www.thingiverse.com/thing:5396186<br/>
 <br/>
